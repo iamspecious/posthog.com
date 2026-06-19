@@ -3915,6 +3915,12 @@ export const docsMenu = {
                     color: 'seagreen',
                 },
                 {
+                    name: 'Bot and traffic detection',
+                    url: '/docs/web-analytics/bot-detection',
+                    icon: 'IconShield',
+                    color: 'purple',
+                },
+                {
                     name: 'Path cleaning',
                     url: '/docs/web-analytics/path-cleaning',
                     icon: 'IconFilter',
