@@ -1469,6 +1469,16 @@ export const handbookSidebar = [
                 ],
             },
             {
+                name: 'Shareable guides',
+                url: '',
+                children: [
+                    {
+                        name: 'LLM cost optimization',
+                        url: '/handbook/cs-and-onboarding/shareable-guides/llm-cost-optimization',
+                    },
+                ],
+            },
+            {
                 name: 'Onboarding',
                 url: '',
                 children: [
