@@ -556,10 +556,6 @@ export const handbookSidebar = [
                 name: 'Resources',
             },
             {
-                name: 'Quick reference',
-                url: '/handbook/brand/reference',
-            },
-            {
                 name: 'Brand assets',
                 url: '/handbook/brand/assets',
             },
@@ -1149,7 +1145,7 @@ export const handbookSidebar = [
                 ],
             },
             {
-                name: 'Positioning and selling',
+                name: 'Positioning',
                 url: '/handbook/marketing/positioning',
                 children: [
                     {
